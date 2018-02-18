@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MakanBang</string>
+    <string-array name="Nomor_Meja">
+        <item>Meja 1</item>
+        <item>Meja 2</item>
+        <item>Meja 3</item>
+
+
+    </string-array>
+</resources>
